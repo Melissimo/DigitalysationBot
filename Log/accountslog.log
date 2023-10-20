@@ -1,0 +1,1569 @@
+2023-10-18 14:22:37 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:24:35 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:24:35 - INFO - Eccezione catturata durante l'apertura del database: name 'os' is not defined
+2023-10-18 14:25:20 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:25:36 - INFO - Eccezione catturata durante l'apertura del database: name 'os' is not defined
+2023-10-18 14:26:12 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:26:43 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 14:26:50 - INFO - Eccezione catturata durante il caricamento degli accounts nella TableView: name 'QSqlTableModel' is not defined
+2023-10-18 14:28:19 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:28:26 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 14:28:37 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 14:28:55 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 14:28:58 - INFO - Eccezione catturata durante l'inizializzazione UI: name 'second_run' is not defined
+2023-10-18 14:30:21 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:30:28 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 14:30:28 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 14:30:33 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 14:30:37 - INFO - Eccezione catturata durante l'inizializzazione UI: name 'second_run' is not defined
+2023-10-18 14:35:08 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:35:14 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 14:35:14 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 14:35:16 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 14:35:19 - INFO - Eccezione catturata durante l'inizializzazione UI: name 'signal_emitter' is not defined
+2023-10-18 14:47:50 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:47:55 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 14:47:55 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 14:47:57 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 14:48:01 - INFO - Eccezione catturata durante l'inizializzazione UI: 'SignalEmitter' object has no attribute 'endProcessSignal'
+2023-10-18 14:50:03 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:50:06 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 14:50:06 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 14:50:08 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 14:50:27 - INFO - Eccezione catturata durante l'inizializzazione UI: name 'QtCore' is not defined
+2023-10-18 14:52:09 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:52:13 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 14:52:13 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 14:52:15 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 14:52:32 - INFO - Eccezione catturata durante l'inizializzazione UI: name 'QtCore' is not defined
+2023-10-18 14:53:56 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 14:53:59 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 14:53:59 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 14:54:01 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 14:54:16 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 15:05:18 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 15:05:21 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 15:05:21 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 15:05:24 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 15:05:26 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 15:05:46 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 15:05:46 - INFO - Controllo della linea: 075339.
+2023-10-18 15:05:46 - INFO - Account malformato: 075339.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84836208812.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84836208812.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84836218846.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84836218846.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84816002583.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84816002583.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84816015904.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84816015904.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84373288565.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84373288565.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84373407200.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84373407200.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84373559492.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84373559492.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84373605467.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84373605467.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84373686982.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84373686982.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84373694783.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84373694783.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84373744435.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84373744435.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84373785913.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84373785913.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84373786547.
+2023-10-18 15:05:46 - INFO - Account valido trovato: ++84373786547.
+2023-10-18 15:05:46 - INFO - Controllo della linea: +84837.
+2023-10-18 15:05:46 - INFO - Account malformato: +84837.
+2023-10-18 15:05:46 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 16:43:22 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 16:43:25 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 16:43:25 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 16:43:26 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 16:43:26 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 16:46:58 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 16:47:00 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 16:47:00 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 16:47:01 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 16:47:02 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 16:47:20 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 16:47:20 - INFO - Controllo della linea: .
+2023-10-18 16:47:20 - INFO - Account malformato: .
+2023-10-18 16:47:20 - INFO - Controllo lista account completato. 1 account malformati rimossi.
+2023-10-18 16:47:20 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 16:48:20 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 16:48:22 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 16:48:23 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 16:48:23 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 16:48:24 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 16:48:32 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 16:48:32 - INFO - Controllo della linea: .
+2023-10-18 16:48:32 - INFO - Account malformato: .
+2023-10-18 16:48:32 - INFO - Controllo della linea: +84829289053.
+2023-10-18 16:48:32 - INFO - Account valido trovato: +84829289053.
+2023-10-18 16:48:32 - INFO - Controllo della linea: +84829303296.
+2023-10-18 16:48:32 - INFO - Account valido trovato: +84829303296.
+2023-10-18 16:48:32 - INFO - Controllo della linea: +84829323680.
+2023-10-18 16:48:32 - INFO - Account valido trovato: +84829323680.
+2023-10-18 16:48:32 - INFO - Controllo della linea: +84836075339.
+2023-10-18 16:48:32 - INFO - Account valido trovato: +84836075339.
+2023-10-18 16:48:32 - INFO - Controllo della linea: +84836208812.
+2023-10-18 16:48:32 - INFO - Account valido trovato: +84836208812.
+2023-10-18 16:48:32 - INFO - Controllo della linea: +84836218846.
+2023-10-18 16:48:32 - INFO - Account valido trovato: +84836218846.
+2023-10-18 16:48:32 - INFO - Controllo della linea: +8481600.
+2023-10-18 16:48:32 - INFO - Account malformato: +8481600.
+2023-10-18 16:48:32 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 16:48:32 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 16:48:32 - INFO - Controllo della sessione per il numero di telefono: +84829289053.
+2023-10-18 16:48:32 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829289053.
+2023-10-18 16:48:32 - INFO - Controllo della sessione per il numero di telefono: +84829303296.
+2023-10-18 16:48:32 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829303296.
+2023-10-18 16:48:32 - INFO - Controllo della sessione per il numero di telefono: +84829323680.
+2023-10-18 16:48:32 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829323680.
+2023-10-18 16:48:32 - INFO - Controllo della sessione per il numero di telefono: +84836075339.
+2023-10-18 16:48:32 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836075339.
+2023-10-18 16:48:32 - INFO - Controllo della sessione per il numero di telefono: +84836208812.
+2023-10-18 16:48:32 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836208812.
+2023-10-18 16:48:32 - INFO - Controllo della sessione per il numero di telefono: +84836218846.
+2023-10-18 16:48:32 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836218846.
+2023-10-18 16:51:39 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 16:51:42 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 16:51:42 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 16:51:43 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 16:51:44 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 16:51:58 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 16:51:58 - INFO - Controllo della linea: .
+2023-10-18 16:51:58 - INFO - Account malformato: .
+2023-10-18 16:51:58 - INFO - Controllo della linea: +84829289053.
+2023-10-18 16:51:58 - INFO - Account valido trovato: +84829289053.
+2023-10-18 16:51:58 - INFO - Controllo della linea: +84829303296.
+2023-10-18 16:51:58 - INFO - Account valido trovato: +84829303296.
+2023-10-18 16:51:58 - INFO - Controllo della linea: +84829323680.
+2023-10-18 16:51:58 - INFO - Account valido trovato: +84829323680.
+2023-10-18 16:51:58 - INFO - Controllo della linea: +84836075339.
+2023-10-18 16:51:58 - INFO - Account valido trovato: +84836075339.
+2023-10-18 16:51:58 - INFO - Controllo della linea: +84836208812.
+2023-10-18 16:51:58 - INFO - Account valido trovato: +84836208812.
+2023-10-18 16:51:58 - INFO - Controllo della linea: +84836218846.
+2023-10-18 16:51:58 - INFO - Account valido trovato: +84836218846.
+2023-10-18 16:51:58 - INFO - Controllo della linea: +8481600.
+2023-10-18 16:51:58 - INFO - Account malformato: +8481600.
+2023-10-18 16:51:58 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 16:51:58 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 16:51:58 - INFO - Controllo della sessione per il numero di telefono: +84829289053.
+2023-10-18 16:51:58 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829289053.
+2023-10-18 16:51:58 - INFO - Controllo della sessione per il numero di telefono: +84829303296.
+2023-10-18 16:51:58 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829303296.
+2023-10-18 16:51:58 - INFO - Controllo della sessione per il numero di telefono: +84829323680.
+2023-10-18 16:51:58 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829323680.
+2023-10-18 16:51:58 - INFO - Controllo della sessione per il numero di telefono: +84836075339.
+2023-10-18 16:51:58 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836075339.
+2023-10-18 16:51:58 - INFO - Controllo della sessione per il numero di telefono: +84836208812.
+2023-10-18 16:51:58 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836208812.
+2023-10-18 16:51:58 - INFO - Controllo della sessione per il numero di telefono: +84836218846.
+2023-10-18 16:51:58 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836218846.
+2023-10-18 16:53:24 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 16:53:29 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 16:53:30 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 16:53:31 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 16:53:32 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 16:53:46 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 16:53:58 - INFO - Controllo della linea: .
+2023-10-18 16:54:04 - INFO - Account malformato: .
+2023-10-18 16:54:05 - INFO - Controllo della linea: +84829289053.
+2023-10-18 16:54:08 - INFO - Account valido trovato: +84829289053.
+2023-10-18 16:54:09 - INFO - Controllo della linea: +84829303296.
+2023-10-18 16:54:12 - INFO - Account valido trovato: +84829303296.
+2023-10-18 16:54:12 - INFO - Controllo della linea: +84829323680.
+2023-10-18 16:54:12 - INFO - Account valido trovato: +84829323680.
+2023-10-18 16:54:12 - INFO - Controllo della linea: +84836075339.
+2023-10-18 16:54:12 - INFO - Account valido trovato: +84836075339.
+2023-10-18 16:54:12 - INFO - Controllo della linea: +84836208812.
+2023-10-18 16:54:12 - INFO - Account valido trovato: +84836208812.
+2023-10-18 16:54:12 - INFO - Controllo della linea: +84836218846.
+2023-10-18 16:54:12 - INFO - Account valido trovato: +84836218846.
+2023-10-18 16:54:12 - INFO - Controllo della linea: +8481600.
+2023-10-18 16:54:12 - INFO - Account malformato: +8481600.
+2023-10-18 16:54:34 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 16:54:45 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 16:54:45 - INFO - Controllo della sessione per il numero di telefono: +84829289053.
+2023-10-18 16:54:45 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829289053.
+2023-10-18 16:54:45 - INFO - Controllo della sessione per il numero di telefono: +84829303296.
+2023-10-18 16:54:45 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829303296.
+2023-10-18 16:54:45 - INFO - Controllo della sessione per il numero di telefono: +84829323680.
+2023-10-18 16:54:45 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829323680.
+2023-10-18 16:54:45 - INFO - Controllo della sessione per il numero di telefono: +84836075339.
+2023-10-18 16:54:45 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836075339.
+2023-10-18 16:54:45 - INFO - Controllo della sessione per il numero di telefono: +84836208812.
+2023-10-18 16:54:45 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836208812.
+2023-10-18 16:54:45 - INFO - Controllo della sessione per il numero di telefono: +84836218846.
+2023-10-18 16:54:45 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836218846.
+2023-10-18 16:55:09 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 16:55:13 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 16:55:13 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 16:55:13 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 16:55:14 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 16:55:23 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 16:55:23 - INFO - Controllo della linea: .
+2023-10-18 16:55:23 - INFO - Account malformato: .
+2023-10-18 16:55:23 - INFO - Controllo della linea: +84829289053.
+2023-10-18 16:55:23 - INFO - Account valido trovato: +84829289053.
+2023-10-18 16:55:23 - INFO - Controllo della linea: +84829303296.
+2023-10-18 16:55:23 - INFO - Account valido trovato: +84829303296.
+2023-10-18 16:55:23 - INFO - Controllo della linea: +84829323680.
+2023-10-18 16:55:23 - INFO - Account valido trovato: +84829323680.
+2023-10-18 16:55:23 - INFO - Controllo della linea: +84836075339.
+2023-10-18 16:55:23 - INFO - Account valido trovato: +84836075339.
+2023-10-18 16:55:23 - INFO - Controllo della linea: +84836208812.
+2023-10-18 16:55:23 - INFO - Account valido trovato: +84836208812.
+2023-10-18 16:55:23 - INFO - Controllo della linea: +84836218846.
+2023-10-18 16:55:23 - INFO - Account valido trovato: +84836218846.
+2023-10-18 16:55:23 - INFO - Controllo della linea: +8481600.
+2023-10-18 16:55:23 - INFO - Account malformato: +8481600.
+2023-10-18 16:55:24 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 16:55:32 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 16:56:06 - INFO - Controllo della sessione per il numero di telefono: +84829289053.
+2023-10-18 16:56:33 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829289053.
+2023-10-18 16:56:36 - INFO - Controllo della sessione per il numero di telefono: +84829303296.
+2023-10-18 16:57:32 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829303296.
+2023-10-18 16:57:32 - INFO - Controllo della sessione per il numero di telefono: +84829323680.
+2023-10-18 16:57:33 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829323680.
+2023-10-18 16:57:33 - INFO - Controllo della sessione per il numero di telefono: +84836075339.
+2023-10-18 16:57:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836075339.
+2023-10-18 16:57:34 - INFO - Controllo della sessione per il numero di telefono: +84836208812.
+2023-10-18 16:57:40 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836208812.
+2023-10-18 16:57:40 - INFO - Controllo della sessione per il numero di telefono: +84836218846.
+2023-10-18 16:57:46 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836218846.
+2023-10-18 16:58:58 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 16:59:00 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 16:59:00 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 16:59:01 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 16:59:02 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 16:59:23 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 16:59:23 - INFO - Controllo della linea: .
+2023-10-18 16:59:23 - INFO - Account malformato: .
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84373288565.
+2023-10-18 16:59:23 - INFO - Account valido trovato: +84373288565.
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84373407200.
+2023-10-18 16:59:23 - INFO - Account valido trovato: +84373407200.
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84373559492.
+2023-10-18 16:59:23 - INFO - Account valido trovato: +84373559492.
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84373605467.
+2023-10-18 16:59:23 - INFO - Account valido trovato: +84373605467.
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84373686982.
+2023-10-18 16:59:23 - INFO - Account valido trovato: +84373686982.
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84373694783.
+2023-10-18 16:59:23 - INFO - Account valido trovato: +84373694783.
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84373744435.
+2023-10-18 16:59:23 - INFO - Account valido trovato: +84373744435.
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84373785913.
+2023-10-18 16:59:23 - INFO - Account valido trovato: +84373785913.
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84373786547.
+2023-10-18 16:59:23 - INFO - Account valido trovato: +84373786547.
+2023-10-18 16:59:23 - INFO - Controllo della linea: +84837.
+2023-10-18 16:59:23 - INFO - Account malformato: +84837.
+2023-10-18 16:59:24 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 16:59:28 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 16:59:28 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 16:59:28 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 16:59:28 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 16:59:28 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 16:59:28 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 16:59:28 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 16:59:28 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 16:59:28 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 16:59:28 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 16:59:28 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 16:59:28 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 16:59:28 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 16:59:28 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 16:59:28 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 16:59:28 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 16:59:28 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 16:59:28 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 16:59:28 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 17:05:23 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 17:05:25 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 17:05:25 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 17:05:26 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 17:05:27 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 17:05:41 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 17:05:41 - INFO - Controllo della linea: .
+2023-10-18 17:05:41 - INFO - Account malformato: .
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84373288565.
+2023-10-18 17:05:41 - INFO - Account valido trovato: +84373288565.
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84373407200.
+2023-10-18 17:05:41 - INFO - Account valido trovato: +84373407200.
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84373559492.
+2023-10-18 17:05:41 - INFO - Account valido trovato: +84373559492.
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84373605467.
+2023-10-18 17:05:41 - INFO - Account valido trovato: +84373605467.
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84373686982.
+2023-10-18 17:05:41 - INFO - Account valido trovato: +84373686982.
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84373694783.
+2023-10-18 17:05:41 - INFO - Account valido trovato: +84373694783.
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84373744435.
+2023-10-18 17:05:41 - INFO - Account valido trovato: +84373744435.
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84373785913.
+2023-10-18 17:05:41 - INFO - Account valido trovato: +84373785913.
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84373786547.
+2023-10-18 17:05:41 - INFO - Account valido trovato: +84373786547.
+2023-10-18 17:05:41 - INFO - Controllo della linea: +84837.
+2023-10-18 17:05:41 - INFO - Account malformato: +84837.
+2023-10-18 17:05:42 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 17:05:42 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 17:05:42 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 17:05:42 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 17:05:42 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 17:05:42 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 17:05:42 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 17:05:42 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 17:05:42 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 17:05:42 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 17:05:42 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 17:05:42 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 17:05:42 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 17:05:42 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 17:05:42 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 17:05:42 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 17:05:42 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 17:05:42 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 17:05:42 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 17:05:42 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 17:06:31 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 17:06:33 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 17:06:33 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 17:06:33 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 17:06:33 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 17:07:25 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 17:07:33 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 17:07:33 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 17:07:35 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 17:07:35 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 17:07:45 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 17:07:45 - INFO - Controllo della linea: .
+2023-10-18 17:07:45 - INFO - Account malformato: .
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84373288565.
+2023-10-18 17:07:45 - INFO - Account valido trovato: +84373288565.
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84373407200.
+2023-10-18 17:07:45 - INFO - Account valido trovato: +84373407200.
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84373559492.
+2023-10-18 17:07:45 - INFO - Account valido trovato: +84373559492.
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84373605467.
+2023-10-18 17:07:45 - INFO - Account valido trovato: +84373605467.
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84373686982.
+2023-10-18 17:07:45 - INFO - Account valido trovato: +84373686982.
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84373694783.
+2023-10-18 17:07:45 - INFO - Account valido trovato: +84373694783.
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84373744435.
+2023-10-18 17:07:45 - INFO - Account valido trovato: +84373744435.
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84373785913.
+2023-10-18 17:07:45 - INFO - Account valido trovato: +84373785913.
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84373786547.
+2023-10-18 17:07:45 - INFO - Account valido trovato: +84373786547.
+2023-10-18 17:07:45 - INFO - Controllo della linea: +84837.
+2023-10-18 17:07:45 - INFO - Account malformato: +84837.
+2023-10-18 17:07:46 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 17:07:49 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 17:07:49 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 17:07:49 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 17:07:49 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 17:07:49 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 17:07:49 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 17:07:49 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 17:07:49 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 17:07:49 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 17:07:49 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 17:07:49 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 17:07:49 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 17:07:49 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 17:07:49 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 17:07:49 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 17:07:49 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 17:07:49 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 17:07:49 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 17:07:49 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 17:08:42 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 17:08:42 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 17:08:42 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 17:08:42 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 17:08:42 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 17:08:59 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 17:08:59 - INFO - Controllo della linea: .
+2023-10-18 17:08:59 - INFO - Account malformato: .
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84373288565.
+2023-10-18 17:08:59 - INFO - Account valido trovato: +84373288565.
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84373407200.
+2023-10-18 17:08:59 - INFO - Account valido trovato: +84373407200.
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84373559492.
+2023-10-18 17:08:59 - INFO - Account valido trovato: +84373559492.
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84373605467.
+2023-10-18 17:08:59 - INFO - Account valido trovato: +84373605467.
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84373686982.
+2023-10-18 17:08:59 - INFO - Account valido trovato: +84373686982.
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84373694783.
+2023-10-18 17:08:59 - INFO - Account valido trovato: +84373694783.
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84373744435.
+2023-10-18 17:08:59 - INFO - Account valido trovato: +84373744435.
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84373785913.
+2023-10-18 17:08:59 - INFO - Account valido trovato: +84373785913.
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84373786547.
+2023-10-18 17:08:59 - INFO - Account valido trovato: +84373786547.
+2023-10-18 17:08:59 - INFO - Controllo della linea: +84837.
+2023-10-18 17:08:59 - INFO - Account malformato: +84837.
+2023-10-18 17:09:00 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 17:09:00 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 17:09:00 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 17:09:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 17:09:01 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 17:09:01 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 17:09:01 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 17:09:01 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 17:09:01 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 17:09:01 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 17:09:01 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 17:09:01 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 17:09:01 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 17:09:01 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 17:09:01 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 17:09:01 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 17:09:01 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 17:09:01 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 17:09:01 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 17:09:01 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 18:06:45 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 18:06:45 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 18:06:45 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 18:06:45 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 18:06:45 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 18:06:56 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 18:07:00 - INFO - Controllo della linea: .
+2023-10-18 18:07:03 - INFO - Account malformato: .
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84373288565.
+2023-10-18 18:07:05 - INFO - Account valido trovato: +84373288565.
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84373407200.
+2023-10-18 18:07:05 - INFO - Account valido trovato: +84373407200.
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84373559492.
+2023-10-18 18:07:05 - INFO - Account valido trovato: +84373559492.
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84373605467.
+2023-10-18 18:07:05 - INFO - Account valido trovato: +84373605467.
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84373686982.
+2023-10-18 18:07:05 - INFO - Account valido trovato: +84373686982.
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84373694783.
+2023-10-18 18:07:05 - INFO - Account valido trovato: +84373694783.
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84373744435.
+2023-10-18 18:07:05 - INFO - Account valido trovato: +84373744435.
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84373785913.
+2023-10-18 18:07:05 - INFO - Account valido trovato: +84373785913.
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84373786547.
+2023-10-18 18:07:05 - INFO - Account valido trovato: +84373786547.
+2023-10-18 18:07:05 - INFO - Controllo della linea: +84837.
+2023-10-18 18:07:05 - INFO - Account malformato: +84837.
+2023-10-18 18:07:06 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 18:07:08 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 18:07:08 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 18:07:08 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 18:07:08 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 18:07:08 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 18:07:08 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 18:07:08 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 18:07:08 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 18:07:08 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 18:07:08 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 18:07:08 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 18:07:08 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 18:07:08 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 18:07:08 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 18:07:08 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 18:07:08 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 18:07:08 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 18:07:08 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 18:07:08 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 18:39:43 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 18:39:43 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 18:39:43 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 18:39:43 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 18:39:43 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 18:40:05 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 18:40:05 - INFO - Controllo della linea: .
+2023-10-18 18:40:05 - INFO - Account malformato: .
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84373288565.
+2023-10-18 18:40:05 - INFO - Account valido trovato: +84373288565.
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84373407200.
+2023-10-18 18:40:05 - INFO - Account valido trovato: +84373407200.
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84373559492.
+2023-10-18 18:40:05 - INFO - Account valido trovato: +84373559492.
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84373605467.
+2023-10-18 18:40:05 - INFO - Account valido trovato: +84373605467.
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84373686982.
+2023-10-18 18:40:05 - INFO - Account valido trovato: +84373686982.
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84373694783.
+2023-10-18 18:40:05 - INFO - Account valido trovato: +84373694783.
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84373744435.
+2023-10-18 18:40:05 - INFO - Account valido trovato: +84373744435.
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84373785913.
+2023-10-18 18:40:05 - INFO - Account valido trovato: +84373785913.
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84373786547.
+2023-10-18 18:40:05 - INFO - Account valido trovato: +84373786547.
+2023-10-18 18:40:05 - INFO - Controllo della linea: +84837.
+2023-10-18 18:40:05 - INFO - Account malformato: +84837.
+2023-10-18 18:40:06 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 18:40:07 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 18:40:07 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 18:40:07 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 18:40:07 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 18:40:07 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 18:40:07 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 18:40:07 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 18:40:07 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 18:40:07 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 18:40:07 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 18:40:07 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 18:40:07 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 18:40:07 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 18:40:07 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 18:40:07 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 18:40:07 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 18:40:07 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 18:40:07 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 18:40:07 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 18:41:03 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 18:41:03 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 18:41:03 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 18:41:03 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 18:41:03 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 18:41:20 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 18:41:20 - INFO - Controllo della linea: .
+2023-10-18 18:41:20 - INFO - Account malformato: .
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84373288565.
+2023-10-18 18:41:20 - INFO - Account valido trovato: +84373288565.
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84373407200.
+2023-10-18 18:41:20 - INFO - Account valido trovato: +84373407200.
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84373559492.
+2023-10-18 18:41:20 - INFO - Account valido trovato: +84373559492.
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84373605467.
+2023-10-18 18:41:20 - INFO - Account valido trovato: +84373605467.
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84373686982.
+2023-10-18 18:41:20 - INFO - Account valido trovato: +84373686982.
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84373694783.
+2023-10-18 18:41:20 - INFO - Account valido trovato: +84373694783.
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84373744435.
+2023-10-18 18:41:20 - INFO - Account valido trovato: +84373744435.
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84373785913.
+2023-10-18 18:41:20 - INFO - Account valido trovato: +84373785913.
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84373786547.
+2023-10-18 18:41:20 - INFO - Account valido trovato: +84373786547.
+2023-10-18 18:41:20 - INFO - Controllo della linea: +84837.
+2023-10-18 18:41:20 - INFO - Account malformato: +84837.
+2023-10-18 18:41:23 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 18:41:26 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 18:41:26 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 18:41:26 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 18:41:26 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 18:41:26 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 18:41:26 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 18:41:26 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 18:41:26 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 18:41:26 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 18:41:26 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 18:41:26 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 18:41:26 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 18:41:26 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 18:41:26 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 18:41:26 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 18:41:26 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 18:41:26 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 18:41:26 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 18:41:26 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 18:47:51 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 18:47:51 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 18:47:51 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 18:47:51 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 18:47:51 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 18:48:04 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 18:48:04 - INFO - Controllo della linea: .
+2023-10-18 18:48:04 - INFO - Account malformato: .
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84373288565.
+2023-10-18 18:48:04 - INFO - Account valido trovato: +84373288565.
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84373407200.
+2023-10-18 18:48:04 - INFO - Account valido trovato: +84373407200.
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84373559492.
+2023-10-18 18:48:04 - INFO - Account valido trovato: +84373559492.
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84373605467.
+2023-10-18 18:48:04 - INFO - Account valido trovato: +84373605467.
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84373686982.
+2023-10-18 18:48:04 - INFO - Account valido trovato: +84373686982.
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84373694783.
+2023-10-18 18:48:04 - INFO - Account valido trovato: +84373694783.
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84373744435.
+2023-10-18 18:48:04 - INFO - Account valido trovato: +84373744435.
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84373785913.
+2023-10-18 18:48:04 - INFO - Account valido trovato: +84373785913.
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84373786547.
+2023-10-18 18:48:04 - INFO - Account valido trovato: +84373786547.
+2023-10-18 18:48:04 - INFO - Controllo della linea: +84837.
+2023-10-18 18:48:04 - INFO - Account malformato: +84837.
+2023-10-18 18:48:05 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 18:48:06 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 18:48:06 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 18:48:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 18:48:06 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 18:48:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 18:48:06 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 18:48:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 18:48:06 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 18:48:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 18:48:06 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 18:48:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 18:48:06 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 18:48:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 18:48:06 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 18:48:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 18:48:06 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 18:48:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 18:48:06 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 18:48:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 18:48:38 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 18:48:38 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 18:48:38 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 18:48:38 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 18:48:38 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 18:48:42 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 18:48:42 - INFO - Controllo della linea: .
+2023-10-18 18:48:42 - INFO - Account malformato: .
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84373288565.
+2023-10-18 18:48:42 - INFO - Account valido trovato: +84373288565.
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84373407200.
+2023-10-18 18:48:42 - INFO - Account valido trovato: +84373407200.
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84373559492.
+2023-10-18 18:48:42 - INFO - Account valido trovato: +84373559492.
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84373605467.
+2023-10-18 18:48:42 - INFO - Account valido trovato: +84373605467.
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84373686982.
+2023-10-18 18:48:42 - INFO - Account valido trovato: +84373686982.
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84373694783.
+2023-10-18 18:48:42 - INFO - Account valido trovato: +84373694783.
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84373744435.
+2023-10-18 18:48:42 - INFO - Account valido trovato: +84373744435.
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84373785913.
+2023-10-18 18:48:42 - INFO - Account valido trovato: +84373785913.
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84373786547.
+2023-10-18 18:48:42 - INFO - Account valido trovato: +84373786547.
+2023-10-18 18:48:42 - INFO - Controllo della linea: +84837.
+2023-10-18 18:48:42 - INFO - Account malformato: +84837.
+2023-10-18 18:48:43 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 18:48:47 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 18:48:47 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 18:48:47 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 18:48:47 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 18:48:47 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 18:48:47 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 18:48:47 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 18:48:47 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 18:48:47 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 18:48:47 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 18:48:47 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 18:48:47 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 18:48:47 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 18:48:47 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 18:48:47 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 18:48:47 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 18:48:47 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 18:48:47 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 18:48:47 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 18:54:23 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 18:54:23 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 18:54:23 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 18:54:23 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 18:54:23 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 18:54:32 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 18:54:32 - INFO - Controllo della linea: .
+2023-10-18 18:54:32 - INFO - Account malformato: .
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84373288565.
+2023-10-18 18:54:32 - INFO - Account valido trovato: +84373288565.
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84373407200.
+2023-10-18 18:54:32 - INFO - Account valido trovato: +84373407200.
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84373559492.
+2023-10-18 18:54:32 - INFO - Account valido trovato: +84373559492.
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84373605467.
+2023-10-18 18:54:32 - INFO - Account valido trovato: +84373605467.
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84373686982.
+2023-10-18 18:54:32 - INFO - Account valido trovato: +84373686982.
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84373694783.
+2023-10-18 18:54:32 - INFO - Account valido trovato: +84373694783.
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84373744435.
+2023-10-18 18:54:32 - INFO - Account valido trovato: +84373744435.
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84373785913.
+2023-10-18 18:54:32 - INFO - Account valido trovato: +84373785913.
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84373786547.
+2023-10-18 18:54:32 - INFO - Account valido trovato: +84373786547.
+2023-10-18 18:54:32 - INFO - Controllo della linea: +84837.
+2023-10-18 18:54:32 - INFO - Account malformato: +84837.
+2023-10-18 18:54:33 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 18:54:37 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 18:54:37 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 18:54:37 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 18:54:37 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 18:54:37 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 18:54:37 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 18:54:37 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 18:54:37 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 18:54:37 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 18:54:37 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 18:54:37 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 18:54:37 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 18:54:37 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 18:54:37 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 18:54:37 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 18:54:37 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 18:54:37 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 18:54:37 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 18:54:37 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 18:55:31 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 18:55:31 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 18:55:31 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 18:55:31 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 18:55:31 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 18:55:34 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 18:55:34 - INFO - Controllo della linea: .
+2023-10-18 18:55:34 - INFO - Account malformato: .
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84373288565.
+2023-10-18 18:55:34 - INFO - Account valido trovato: +84373288565.
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84373407200.
+2023-10-18 18:55:34 - INFO - Account valido trovato: +84373407200.
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84373559492.
+2023-10-18 18:55:34 - INFO - Account valido trovato: +84373559492.
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84373605467.
+2023-10-18 18:55:34 - INFO - Account valido trovato: +84373605467.
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84373686982.
+2023-10-18 18:55:34 - INFO - Account valido trovato: +84373686982.
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84373694783.
+2023-10-18 18:55:34 - INFO - Account valido trovato: +84373694783.
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84373744435.
+2023-10-18 18:55:34 - INFO - Account valido trovato: +84373744435.
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84373785913.
+2023-10-18 18:55:34 - INFO - Account valido trovato: +84373785913.
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84373786547.
+2023-10-18 18:55:34 - INFO - Account valido trovato: +84373786547.
+2023-10-18 18:55:34 - INFO - Controllo della linea: +84837.
+2023-10-18 18:55:34 - INFO - Account malformato: +84837.
+2023-10-18 18:55:34 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 18:55:34 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 18:55:34 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 18:55:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 18:55:34 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 18:55:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 18:55:34 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 18:55:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 18:55:34 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 18:55:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 18:55:34 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 18:55:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 18:55:34 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 18:55:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 18:55:34 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 18:55:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 18:55:34 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 18:55:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 18:55:34 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 18:55:34 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 18:57:50 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 18:57:50 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 18:57:50 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 18:57:50 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 18:57:50 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 18:58:00 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 18:58:00 - INFO - Controllo della linea: .
+2023-10-18 18:58:00 - INFO - Account malformato: .
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84373288565.
+2023-10-18 18:58:00 - INFO - Account valido trovato: +84373288565.
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84373407200.
+2023-10-18 18:58:00 - INFO - Account valido trovato: +84373407200.
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84373559492.
+2023-10-18 18:58:00 - INFO - Account valido trovato: +84373559492.
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84373605467.
+2023-10-18 18:58:00 - INFO - Account valido trovato: +84373605467.
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84373686982.
+2023-10-18 18:58:00 - INFO - Account valido trovato: +84373686982.
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84373694783.
+2023-10-18 18:58:00 - INFO - Account valido trovato: +84373694783.
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84373744435.
+2023-10-18 18:58:00 - INFO - Account valido trovato: +84373744435.
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84373785913.
+2023-10-18 18:58:00 - INFO - Account valido trovato: +84373785913.
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84373786547.
+2023-10-18 18:58:00 - INFO - Account valido trovato: +84373786547.
+2023-10-18 18:58:00 - INFO - Controllo della linea: +84837.
+2023-10-18 18:58:00 - INFO - Account malformato: +84837.
+2023-10-18 18:58:00 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 18:58:00 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 18:58:00 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 18:58:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 18:58:00 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 18:58:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 18:58:00 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 18:58:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 18:58:00 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 18:58:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 18:58:00 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 18:58:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 18:58:00 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 18:58:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 18:58:00 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 18:58:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 18:58:00 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 18:58:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 18:58:00 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 18:58:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 18:59:47 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 18:59:47 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 18:59:47 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 18:59:47 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 18:59:47 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 18:59:54 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 18:59:54 - INFO - Controllo della linea: .
+2023-10-18 18:59:54 - INFO - Account malformato: .
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84373288565.
+2023-10-18 18:59:54 - INFO - Account valido trovato: +84373288565.
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84373407200.
+2023-10-18 18:59:54 - INFO - Account valido trovato: +84373407200.
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84373559492.
+2023-10-18 18:59:54 - INFO - Account valido trovato: +84373559492.
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84373605467.
+2023-10-18 18:59:54 - INFO - Account valido trovato: +84373605467.
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84373686982.
+2023-10-18 18:59:54 - INFO - Account valido trovato: +84373686982.
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84373694783.
+2023-10-18 18:59:54 - INFO - Account valido trovato: +84373694783.
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84373744435.
+2023-10-18 18:59:54 - INFO - Account valido trovato: +84373744435.
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84373785913.
+2023-10-18 18:59:54 - INFO - Account valido trovato: +84373785913.
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84373786547.
+2023-10-18 18:59:54 - INFO - Account valido trovato: +84373786547.
+2023-10-18 18:59:54 - INFO - Controllo della linea: +84837.
+2023-10-18 18:59:54 - INFO - Account malformato: +84837.
+2023-10-18 18:59:54 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 18:59:54 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 18:59:54 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 18:59:54 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 18:59:54 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 18:59:54 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 18:59:54 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 18:59:54 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 18:59:54 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 18:59:54 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 18:59:54 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 18:59:54 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 18:59:54 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 18:59:54 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 18:59:54 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 18:59:54 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 18:59:54 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 18:59:54 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 18:59:54 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 18:59:54 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 19:29:01 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 19:29:01 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 19:29:01 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 19:29:01 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 19:29:01 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 19:29:09 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 19:29:09 - INFO - Controllo della linea: .
+2023-10-18 19:29:09 - INFO - Account malformato: .
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84373288565.
+2023-10-18 19:29:09 - INFO - Account valido trovato: +84373288565.
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84373407200.
+2023-10-18 19:29:09 - INFO - Account valido trovato: +84373407200.
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84373559492.
+2023-10-18 19:29:09 - INFO - Account valido trovato: +84373559492.
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84373605467.
+2023-10-18 19:29:09 - INFO - Account valido trovato: +84373605467.
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84373686982.
+2023-10-18 19:29:09 - INFO - Account valido trovato: +84373686982.
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84373694783.
+2023-10-18 19:29:09 - INFO - Account valido trovato: +84373694783.
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84373744435.
+2023-10-18 19:29:09 - INFO - Account valido trovato: +84373744435.
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84373785913.
+2023-10-18 19:29:09 - INFO - Account valido trovato: +84373785913.
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84373786547.
+2023-10-18 19:29:09 - INFO - Account valido trovato: +84373786547.
+2023-10-18 19:29:09 - INFO - Controllo della linea: +84837.
+2023-10-18 19:29:09 - INFO - Account malformato: +84837.
+2023-10-18 19:29:09 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 19:29:09 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 19:29:09 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 19:29:09 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 19:29:09 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 19:29:09 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 19:29:09 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 19:29:09 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 19:29:09 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 19:29:09 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 19:29:09 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 19:29:09 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 19:29:09 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 19:29:09 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 19:29:09 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 19:29:09 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 19:29:09 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 19:29:09 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 19:29:09 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 19:29:09 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 19:32:01 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 19:32:01 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 19:32:01 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 19:32:01 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 19:32:01 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 19:32:06 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 19:32:06 - INFO - Controllo della linea: .
+2023-10-18 19:32:06 - INFO - Account malformato: .
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84373288565.
+2023-10-18 19:32:06 - INFO - Account valido trovato: +84373288565.
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84373407200.
+2023-10-18 19:32:06 - INFO - Account valido trovato: +84373407200.
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84373559492.
+2023-10-18 19:32:06 - INFO - Account valido trovato: +84373559492.
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84373605467.
+2023-10-18 19:32:06 - INFO - Account valido trovato: +84373605467.
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84373686982.
+2023-10-18 19:32:06 - INFO - Account valido trovato: +84373686982.
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84373694783.
+2023-10-18 19:32:06 - INFO - Account valido trovato: +84373694783.
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84373744435.
+2023-10-18 19:32:06 - INFO - Account valido trovato: +84373744435.
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84373785913.
+2023-10-18 19:32:06 - INFO - Account valido trovato: +84373785913.
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84373786547.
+2023-10-18 19:32:06 - INFO - Account valido trovato: +84373786547.
+2023-10-18 19:32:06 - INFO - Controllo della linea: +84837.
+2023-10-18 19:32:06 - INFO - Account malformato: +84837.
+2023-10-18 19:32:06 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 19:32:06 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 19:32:06 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 19:32:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 19:32:06 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 19:32:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 19:32:06 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 19:32:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 19:32:06 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 19:32:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 19:32:06 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 19:32:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 19:32:06 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 19:32:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 19:32:06 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 19:32:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 19:32:06 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 19:32:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 19:32:06 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 19:32:06 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 19:33:47 - INFO - Eccezione catturata durante l'avvio delle sessioni: can only concatenate str (not "int") to str
+2023-10-18 19:38:21 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 19:38:21 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 19:38:21 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 19:38:21 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 19:38:21 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 19:38:30 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 19:38:30 - INFO - Controllo della linea: .
+2023-10-18 19:38:30 - INFO - Account malformato: .
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84373288565.
+2023-10-18 19:38:30 - INFO - Account valido trovato: +84373288565.
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84373407200.
+2023-10-18 19:38:30 - INFO - Account valido trovato: +84373407200.
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84373559492.
+2023-10-18 19:38:30 - INFO - Account valido trovato: +84373559492.
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84373605467.
+2023-10-18 19:38:30 - INFO - Account valido trovato: +84373605467.
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84373686982.
+2023-10-18 19:38:30 - INFO - Account valido trovato: +84373686982.
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84373694783.
+2023-10-18 19:38:30 - INFO - Account valido trovato: +84373694783.
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84373744435.
+2023-10-18 19:38:30 - INFO - Account valido trovato: +84373744435.
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84373785913.
+2023-10-18 19:38:30 - INFO - Account valido trovato: +84373785913.
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84373786547.
+2023-10-18 19:38:30 - INFO - Account valido trovato: +84373786547.
+2023-10-18 19:38:30 - INFO - Controllo della linea: +84837.
+2023-10-18 19:38:30 - INFO - Account malformato: +84837.
+2023-10-18 19:38:30 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 19:38:30 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 19:38:30 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 19:38:30 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 19:38:30 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 19:38:30 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 19:38:30 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 19:38:30 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 19:38:30 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 19:38:30 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 19:38:30 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 19:38:30 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 19:38:30 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 19:38:30 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 19:38:30 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 19:38:30 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 19:38:30 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 19:38:30 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 19:38:30 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 19:38:30 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 19:40:05 - INFO - Eccezione catturata durante l'avvio delle sessioni: can only concatenate str (not "int") to str
+2023-10-18 19:46:15 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 19:46:15 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 19:46:15 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 19:46:15 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 19:46:15 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 19:46:22 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 19:46:22 - INFO - Controllo della linea: .
+2023-10-18 19:46:22 - INFO - Account malformato: .
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84373288565.
+2023-10-18 19:46:22 - INFO - Account valido trovato: +84373288565.
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84373407200.
+2023-10-18 19:46:22 - INFO - Account valido trovato: +84373407200.
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84373559492.
+2023-10-18 19:46:22 - INFO - Account valido trovato: +84373559492.
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84373605467.
+2023-10-18 19:46:22 - INFO - Account valido trovato: +84373605467.
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84373686982.
+2023-10-18 19:46:22 - INFO - Account valido trovato: +84373686982.
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84373694783.
+2023-10-18 19:46:22 - INFO - Account valido trovato: +84373694783.
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84373744435.
+2023-10-18 19:46:22 - INFO - Account valido trovato: +84373744435.
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84373785913.
+2023-10-18 19:46:22 - INFO - Account valido trovato: +84373785913.
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84373786547.
+2023-10-18 19:46:22 - INFO - Account valido trovato: +84373786547.
+2023-10-18 19:46:22 - INFO - Controllo della linea: +84837.
+2023-10-18 19:46:22 - INFO - Account malformato: +84837.
+2023-10-18 19:46:22 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 19:46:22 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 19:46:22 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 19:46:22 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 19:46:22 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 19:46:22 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 19:46:22 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 19:46:22 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 19:46:22 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 19:46:22 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 19:46:22 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 19:46:22 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 19:46:22 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 19:46:22 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 19:46:22 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 19:46:22 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 19:46:22 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 19:46:22 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 19:46:22 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 19:46:22 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 19:51:59 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 19:51:59 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 19:51:59 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 19:51:59 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 19:51:59 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 19:52:05 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 19:52:05 - INFO - Controllo della linea: .
+2023-10-18 19:52:05 - INFO - Account malformato: .
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84373288565.
+2023-10-18 19:52:05 - INFO - Account valido trovato: +84373288565.
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84373407200.
+2023-10-18 19:52:05 - INFO - Account valido trovato: +84373407200.
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84373559492.
+2023-10-18 19:52:05 - INFO - Account valido trovato: +84373559492.
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84373605467.
+2023-10-18 19:52:05 - INFO - Account valido trovato: +84373605467.
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84373686982.
+2023-10-18 19:52:05 - INFO - Account valido trovato: +84373686982.
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84373694783.
+2023-10-18 19:52:05 - INFO - Account valido trovato: +84373694783.
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84373744435.
+2023-10-18 19:52:05 - INFO - Account valido trovato: +84373744435.
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84373785913.
+2023-10-18 19:52:05 - INFO - Account valido trovato: +84373785913.
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84373786547.
+2023-10-18 19:52:05 - INFO - Account valido trovato: +84373786547.
+2023-10-18 19:52:05 - INFO - Controllo della linea: +84837.
+2023-10-18 19:52:05 - INFO - Account malformato: +84837.
+2023-10-18 19:52:05 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 19:52:05 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 19:52:05 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 19:52:05 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 19:52:05 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 19:52:05 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 19:52:05 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 19:52:05 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 19:52:05 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 19:52:05 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 19:52:05 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 19:52:05 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 19:52:05 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 19:52:05 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 19:52:05 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 19:52:05 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 19:52:05 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 19:52:05 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 19:52:05 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 19:52:05 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 19:54:33 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 19:54:33 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 19:54:33 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 19:54:33 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 19:54:33 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 19:54:39 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 19:54:39 - INFO - Controllo della linea: .
+2023-10-18 19:54:39 - INFO - Account malformato: .
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84373288565.
+2023-10-18 19:54:39 - INFO - Account valido trovato: +84373288565.
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84373407200.
+2023-10-18 19:54:39 - INFO - Account valido trovato: +84373407200.
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84373559492.
+2023-10-18 19:54:39 - INFO - Account valido trovato: +84373559492.
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84373605467.
+2023-10-18 19:54:39 - INFO - Account valido trovato: +84373605467.
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84373686982.
+2023-10-18 19:54:39 - INFO - Account valido trovato: +84373686982.
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84373694783.
+2023-10-18 19:54:39 - INFO - Account valido trovato: +84373694783.
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84373744435.
+2023-10-18 19:54:39 - INFO - Account valido trovato: +84373744435.
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84373785913.
+2023-10-18 19:54:39 - INFO - Account valido trovato: +84373785913.
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84373786547.
+2023-10-18 19:54:39 - INFO - Account valido trovato: +84373786547.
+2023-10-18 19:54:39 - INFO - Controllo della linea: +84837.
+2023-10-18 19:54:39 - INFO - Account malformato: +84837.
+2023-10-18 19:54:39 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 19:54:39 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 19:54:39 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 19:54:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 19:54:39 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 19:54:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 19:54:39 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 19:54:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 19:54:39 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 19:54:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 19:54:39 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 19:54:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 19:54:39 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 19:54:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 19:54:39 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 19:54:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 19:54:39 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 19:54:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 19:54:39 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 19:54:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 20:10:31 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 20:10:31 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 20:10:31 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 20:10:31 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 20:10:31 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 20:10:39 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 20:10:39 - INFO - Controllo della linea: .
+2023-10-18 20:10:39 - INFO - Account malformato: .
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84373288565.
+2023-10-18 20:10:39 - INFO - Account valido trovato: +84373288565.
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84373407200.
+2023-10-18 20:10:39 - INFO - Account valido trovato: +84373407200.
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84373559492.
+2023-10-18 20:10:39 - INFO - Account valido trovato: +84373559492.
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84373605467.
+2023-10-18 20:10:39 - INFO - Account valido trovato: +84373605467.
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84373686982.
+2023-10-18 20:10:39 - INFO - Account valido trovato: +84373686982.
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84373694783.
+2023-10-18 20:10:39 - INFO - Account valido trovato: +84373694783.
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84373744435.
+2023-10-18 20:10:39 - INFO - Account valido trovato: +84373744435.
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84373785913.
+2023-10-18 20:10:39 - INFO - Account valido trovato: +84373785913.
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84373786547.
+2023-10-18 20:10:39 - INFO - Account valido trovato: +84373786547.
+2023-10-18 20:10:39 - INFO - Controllo della linea: +84837.
+2023-10-18 20:10:39 - INFO - Account malformato: +84837.
+2023-10-18 20:10:39 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 20:10:39 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 20:10:39 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 20:10:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 20:10:39 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 20:10:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 20:10:39 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 20:10:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 20:10:39 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 20:10:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 20:10:39 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 20:10:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 20:10:39 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 20:10:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 20:10:39 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 20:10:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 20:10:39 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 20:10:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 20:10:39 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 20:10:39 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 20:10:39 - INFO - Eccezione catturata durante l'avvio delle sessioni: name 'sessions_converter' is not defined
+2023-10-18 20:11:10 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 20:11:10 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 20:11:10 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 20:11:10 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 20:11:10 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 20:11:13 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 20:11:13 - INFO - Controllo della linea: .
+2023-10-18 20:11:13 - INFO - Account malformato: .
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84373288565.
+2023-10-18 20:11:13 - INFO - Account valido trovato: +84373288565.
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84373407200.
+2023-10-18 20:11:13 - INFO - Account valido trovato: +84373407200.
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84373559492.
+2023-10-18 20:11:13 - INFO - Account valido trovato: +84373559492.
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84373605467.
+2023-10-18 20:11:13 - INFO - Account valido trovato: +84373605467.
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84373686982.
+2023-10-18 20:11:13 - INFO - Account valido trovato: +84373686982.
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84373694783.
+2023-10-18 20:11:13 - INFO - Account valido trovato: +84373694783.
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84373744435.
+2023-10-18 20:11:13 - INFO - Account valido trovato: +84373744435.
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84373785913.
+2023-10-18 20:11:13 - INFO - Account valido trovato: +84373785913.
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84373786547.
+2023-10-18 20:11:13 - INFO - Account valido trovato: +84373786547.
+2023-10-18 20:11:13 - INFO - Controllo della linea: +84837.
+2023-10-18 20:11:13 - INFO - Account malformato: +84837.
+2023-10-18 20:11:13 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 20:11:13 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 20:11:13 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 20:11:13 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 20:11:13 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 20:11:13 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 20:11:13 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 20:11:13 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 20:11:13 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 20:11:13 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 20:11:13 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 20:11:13 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 20:11:13 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 20:11:13 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 20:11:13 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 20:11:13 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 20:11:13 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 20:11:13 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 20:11:13 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 20:11:13 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 20:12:25 - INFO - Eccezione catturata durante l'avvio delle sessioni: invalid literal for int() with base 10: ''
+2023-10-18 20:15:17 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 20:15:17 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 20:15:17 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 20:15:17 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 20:15:17 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 20:15:25 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 20:15:25 - INFO - Controllo della linea: .
+2023-10-18 20:15:25 - INFO - Account malformato: .
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84373288565.
+2023-10-18 20:15:25 - INFO - Account valido trovato: +84373288565.
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84373407200.
+2023-10-18 20:15:25 - INFO - Account valido trovato: +84373407200.
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84373559492.
+2023-10-18 20:15:25 - INFO - Account valido trovato: +84373559492.
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84373605467.
+2023-10-18 20:15:25 - INFO - Account valido trovato: +84373605467.
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84373686982.
+2023-10-18 20:15:25 - INFO - Account valido trovato: +84373686982.
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84373694783.
+2023-10-18 20:15:25 - INFO - Account valido trovato: +84373694783.
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84373744435.
+2023-10-18 20:15:25 - INFO - Account valido trovato: +84373744435.
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84373785913.
+2023-10-18 20:15:25 - INFO - Account valido trovato: +84373785913.
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84373786547.
+2023-10-18 20:15:25 - INFO - Account valido trovato: +84373786547.
+2023-10-18 20:15:25 - INFO - Controllo della linea: +84837.
+2023-10-18 20:15:25 - INFO - Account malformato: +84837.
+2023-10-18 20:15:25 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 20:15:25 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 20:15:25 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 20:15:25 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 20:15:25 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 20:15:25 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 20:15:25 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 20:15:25 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 20:15:25 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 20:15:25 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 20:15:25 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 20:15:25 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 20:15:25 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 20:15:25 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 20:15:25 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 20:15:25 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 20:15:25 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 20:15:25 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 20:15:25 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 20:15:25 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-18 20:16:57 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-18 20:16:57 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-18 20:16:57 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-18 20:16:57 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-18 20:16:57 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-18 20:17:03 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-18 20:17:03 - INFO - Controllo della linea: .
+2023-10-18 20:17:03 - INFO - Account malformato: .
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84373288565.
+2023-10-18 20:17:03 - INFO - Account valido trovato: +84373288565.
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84373407200.
+2023-10-18 20:17:03 - INFO - Account valido trovato: +84373407200.
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84373559492.
+2023-10-18 20:17:03 - INFO - Account valido trovato: +84373559492.
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84373605467.
+2023-10-18 20:17:03 - INFO - Account valido trovato: +84373605467.
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84373686982.
+2023-10-18 20:17:03 - INFO - Account valido trovato: +84373686982.
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84373694783.
+2023-10-18 20:17:03 - INFO - Account valido trovato: +84373694783.
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84373744435.
+2023-10-18 20:17:03 - INFO - Account valido trovato: +84373744435.
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84373785913.
+2023-10-18 20:17:03 - INFO - Account valido trovato: +84373785913.
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84373786547.
+2023-10-18 20:17:03 - INFO - Account valido trovato: +84373786547.
+2023-10-18 20:17:03 - INFO - Controllo della linea: +84837.
+2023-10-18 20:17:03 - INFO - Account malformato: +84837.
+2023-10-18 20:17:03 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-18 20:17:03 - INFO - Avvio della funzione avvia_sessions.
+2023-10-18 20:17:03 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-18 20:17:03 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-18 20:17:03 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-18 20:17:03 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-18 20:17:03 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-18 20:17:03 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-18 20:17:03 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-18 20:17:03 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-18 20:17:03 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-18 20:17:03 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-18 20:17:03 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-18 20:17:03 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-18 20:17:03 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-18 20:17:03 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-18 20:17:03 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-18 20:17:03 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-18 20:17:03 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-18 20:17:03 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-19 09:12:56 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-19 09:12:56 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-19 09:12:56 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-19 09:12:56 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-19 09:12:56 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-19 09:13:02 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-19 09:13:02 - INFO - Controllo della linea: .
+2023-10-19 09:13:02 - INFO - Account malformato: .
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84373288565.
+2023-10-19 09:13:02 - INFO - Account valido trovato: +84373288565.
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84373407200.
+2023-10-19 09:13:02 - INFO - Account valido trovato: +84373407200.
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84373559492.
+2023-10-19 09:13:02 - INFO - Account valido trovato: +84373559492.
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84373605467.
+2023-10-19 09:13:02 - INFO - Account valido trovato: +84373605467.
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84373686982.
+2023-10-19 09:13:02 - INFO - Account valido trovato: +84373686982.
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84373694783.
+2023-10-19 09:13:02 - INFO - Account valido trovato: +84373694783.
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84373744435.
+2023-10-19 09:13:02 - INFO - Account valido trovato: +84373744435.
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84373785913.
+2023-10-19 09:13:02 - INFO - Account valido trovato: +84373785913.
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84373786547.
+2023-10-19 09:13:02 - INFO - Account valido trovato: +84373786547.
+2023-10-19 09:13:02 - INFO - Controllo della linea: +84837.
+2023-10-19 09:13:02 - INFO - Account malformato: +84837.
+2023-10-19 09:13:02 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-19 09:13:02 - INFO - Avvio della funzione avvia_sessions.
+2023-10-19 09:13:02 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-19 09:13:02 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-19 09:13:02 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-19 09:13:02 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-19 09:13:02 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-19 09:13:02 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-19 09:13:02 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-19 09:13:02 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-19 09:13:02 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-19 09:13:02 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-19 09:13:02 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-19 09:13:02 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-19 09:13:02 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-19 09:13:02 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-19 09:13:02 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-19 09:13:02 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-19 09:13:02 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-19 09:13:02 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-19 09:13:32 - INFO - Eccezione catturata durante l'avvio delle sessioni: Not a valid string
+2023-10-19 09:34:07 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-19 09:34:07 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-19 09:34:07 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-19 09:34:07 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-19 09:34:07 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-19 09:34:19 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-19 09:34:19 - INFO - Controllo della linea: .
+2023-10-19 09:34:19 - INFO - Account malformato: .
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84373288565.
+2023-10-19 09:34:19 - INFO - Account valido trovato: +84373288565.
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84373407200.
+2023-10-19 09:34:19 - INFO - Account valido trovato: +84373407200.
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84373559492.
+2023-10-19 09:34:19 - INFO - Account valido trovato: +84373559492.
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84373605467.
+2023-10-19 09:34:19 - INFO - Account valido trovato: +84373605467.
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84373686982.
+2023-10-19 09:34:19 - INFO - Account valido trovato: +84373686982.
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84373694783.
+2023-10-19 09:34:19 - INFO - Account valido trovato: +84373694783.
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84373744435.
+2023-10-19 09:34:19 - INFO - Account valido trovato: +84373744435.
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84373785913.
+2023-10-19 09:34:19 - INFO - Account valido trovato: +84373785913.
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84373786547.
+2023-10-19 09:34:19 - INFO - Account valido trovato: +84373786547.
+2023-10-19 09:34:19 - INFO - Controllo della linea: +84837.
+2023-10-19 09:34:19 - INFO - Account malformato: +84837.
+2023-10-19 09:34:19 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-19 09:34:19 - INFO - Avvio della funzione avvia_sessions.
+2023-10-19 09:34:19 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-19 09:34:19 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-19 09:34:19 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-19 09:34:19 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-19 09:34:19 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-19 09:34:19 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-19 09:34:19 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-19 09:34:19 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-19 09:34:19 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-19 09:34:19 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-19 09:34:19 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-19 09:34:19 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-19 09:34:19 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-19 09:34:19 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-19 09:34:19 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-19 09:34:19 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-19 09:34:19 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-19 09:34:19 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-19 09:44:54 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-19 09:44:54 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-19 09:44:54 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-19 09:44:54 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-19 09:44:54 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-19 09:45:00 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-19 09:45:00 - INFO - Controllo della linea: .
+2023-10-19 09:45:00 - INFO - Account malformato: .
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84373288565.
+2023-10-19 09:45:00 - INFO - Account valido trovato: +84373288565.
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84373407200.
+2023-10-19 09:45:00 - INFO - Account valido trovato: +84373407200.
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84373559492.
+2023-10-19 09:45:00 - INFO - Account valido trovato: +84373559492.
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84373605467.
+2023-10-19 09:45:00 - INFO - Account valido trovato: +84373605467.
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84373686982.
+2023-10-19 09:45:00 - INFO - Account valido trovato: +84373686982.
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84373694783.
+2023-10-19 09:45:00 - INFO - Account valido trovato: +84373694783.
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84373744435.
+2023-10-19 09:45:00 - INFO - Account valido trovato: +84373744435.
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84373785913.
+2023-10-19 09:45:00 - INFO - Account valido trovato: +84373785913.
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84373786547.
+2023-10-19 09:45:00 - INFO - Account valido trovato: +84373786547.
+2023-10-19 09:45:00 - INFO - Controllo della linea: +84837.
+2023-10-19 09:45:00 - INFO - Account malformato: +84837.
+2023-10-19 09:45:00 - INFO - Controllo lista account completato. 2 account malformati rimossi.
+2023-10-19 09:45:00 - INFO - Avvio della funzione avvia_sessions.
+2023-10-19 09:45:00 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-19 09:45:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-19 09:45:00 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-19 09:45:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-19 09:45:00 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-19 09:45:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-19 09:45:00 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-19 09:45:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-19 09:45:00 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-19 09:45:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
+2023-10-19 09:45:00 - INFO - Controllo della sessione per il numero di telefono: +84373694783.
+2023-10-19 09:45:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373694783.
+2023-10-19 09:45:00 - INFO - Controllo della sessione per il numero di telefono: +84373744435.
+2023-10-19 09:45:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373744435.
+2023-10-19 09:45:00 - INFO - Controllo della sessione per il numero di telefono: +84373785913.
+2023-10-19 09:45:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373785913.
+2023-10-19 09:45:00 - INFO - Controllo della sessione per il numero di telefono: +84373786547.
+2023-10-19 09:45:00 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373786547.
+2023-10-19 15:16:22 - INFO - Inizio del maneggiamento del pulsante Accounts.
+2023-10-19 15:16:22 - INFO - Inizio caricamento degli accounts nella TableView.
+2023-10-19 15:16:22 - INFO - Caricamento degli accounts nella TableView completato.
+2023-10-19 15:16:22 - INFO - Inizio inizializzazione UI per la gestione degli accounts.
+2023-10-19 15:16:22 - INFO - Pulsante Invio connesso alla funzione di controllo della lista degli accounts.
+2023-10-19 15:16:41 - INFO - Avvio della funzione controllo_lista_accounts.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84815982603.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84815982603.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84829251603.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84829251603.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84829272058.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84829272058.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84829289053.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84829289053.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84829303296.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84829303296.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84829323680.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84829323680.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84836075339.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84836075339.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84836208812.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84836208812.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84836218846.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84836218846.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84816002583.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84816002583.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84816015904.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84816015904.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84373288565.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84373288565.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84373407200.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84373407200.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84373559492.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84373559492.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84373605467.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84373605467.
+2023-10-19 15:16:41 - INFO - Controllo della linea: +84373686982.
+2023-10-19 15:16:41 - INFO - Account valido trovato: +84373686982.
+2023-10-19 15:16:41 - INFO - Controllo lista account completato. 0 account malformati rimossi.
+2023-10-19 15:16:41 - INFO - Avvio della funzione avvia_sessions.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84815982603.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84815982603.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84829251603.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829251603.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84829272058.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829272058.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84829289053.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829289053.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84829303296.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829303296.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84829323680.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84829323680.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84836075339.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836075339.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84836208812.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836208812.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84836218846.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84836218846.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84816002583.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84816002583.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84816015904.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84816015904.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84373288565.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373288565.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84373407200.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373407200.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84373559492.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373559492.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84373605467.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373605467.
+2023-10-19 15:16:41 - INFO - Controllo della sessione per il numero di telefono: +84373686982.
+2023-10-19 15:16:41 - INFO - Nessuna sessione o file di sessione esistenti trovati per il numero di telefono: +84373686982.
